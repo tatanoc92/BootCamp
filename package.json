@@ -1,0 +1,22 @@
+{
+  "name": "BootCamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatanoc92/BootCamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatanoc92/BootCamp/issues"
+  },
+  "homepage": "https://github.com/tatanoc92/BootCamp#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
